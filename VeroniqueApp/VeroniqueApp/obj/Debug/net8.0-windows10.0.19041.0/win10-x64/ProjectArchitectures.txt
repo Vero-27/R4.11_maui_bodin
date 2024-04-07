@@ -1,0 +1,1 @@
+C:\Android\R4.11_maui_bodin\VeroniqueApp\VeroniqueApp\VeroniqueApp.csproj;x64
