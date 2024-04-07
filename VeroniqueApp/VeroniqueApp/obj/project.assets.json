@@ -32936,11 +32936,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Véro Bodin\\Desktop\\VeroniqueApp\\VeroniqueApp\\VeroniqueApp.csproj",
+      "projectUniqueName": "C:\\Android\\R4.11_maui_bodin\\VeroniqueApp\\VeroniqueApp\\VeroniqueApp.csproj",
       "projectName": "VeroniqueApp",
-      "projectPath": "C:\\Users\\Véro Bodin\\Desktop\\VeroniqueApp\\VeroniqueApp\\VeroniqueApp.csproj",
+      "projectPath": "C:\\Android\\R4.11_maui_bodin\\VeroniqueApp\\VeroniqueApp\\VeroniqueApp.csproj",
       "packagesPath": "C:\\Users\\Véro Bodin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Véro Bodin\\Desktop\\VeroniqueApp\\VeroniqueApp\\obj\\",
+      "outputPath": "C:\\Android\\R4.11_maui_bodin\\VeroniqueApp\\VeroniqueApp\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
@@ -32959,7 +32959,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

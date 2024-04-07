@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K255/ZYiSUR68Bhs+R2sbGt5u7Qf/4uHojOLj1y6eRzt4uZ0q/i6gxcaY+VOQSNz1Dnwdk3kUVgpkKBQp7sRGA==",
+  "dgSpecHash": "arSMNwLoBg8Zo/e1lavGj56wJpHRXqq1HuVPyzGs4tBtQYpEriKi0Ifum1rbGpfq0Huk9KrkftkzEo2qsej6vg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Véro Bodin\\Desktop\\VeroniqueApp\\VeroniqueApp\\VeroniqueApp.csproj",
+  "projectFilePath": "C:\\Android\\R4.11_maui_bodin\\VeroniqueApp\\VeroniqueApp\\VeroniqueApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Véro Bodin\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\Véro Bodin\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
