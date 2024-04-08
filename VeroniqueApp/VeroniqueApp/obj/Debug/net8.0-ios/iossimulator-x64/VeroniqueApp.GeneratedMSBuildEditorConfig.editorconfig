@@ -45,3 +45,27 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = VeroniqueApp.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Android/R4.11_maui_bodin/VeroniqueApp/VeroniqueApp/View/Page1.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VeroniqueApp.View.Page1.xaml
+build_metadata.AdditionalFiles.TargetPath = View\Page1.xaml
+build_metadata.AdditionalFiles.RelativePath = View\Page1.xaml
+
+[C:/Android/R4.11_maui_bodin/VeroniqueApp/VeroniqueApp/View/Page2.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VeroniqueApp.View.Page2.xaml
+build_metadata.AdditionalFiles.TargetPath = View\Page2.xaml
+build_metadata.AdditionalFiles.RelativePath = View\Page2.xaml
+
+[C:/Android/R4.11_maui_bodin/VeroniqueApp/VeroniqueApp/View/Page3.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VeroniqueApp.View.Page3.xaml
+build_metadata.AdditionalFiles.TargetPath = View\Page3.xaml
+build_metadata.AdditionalFiles.RelativePath = View\Page3.xaml
+
+[C:/Android/R4.11_maui_bodin/VeroniqueApp/VeroniqueApp/View/Page4.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VeroniqueApp.View.Page4.xaml
+build_metadata.AdditionalFiles.TargetPath = View\Page4.xaml
+build_metadata.AdditionalFiles.RelativePath = View\Page4.xaml

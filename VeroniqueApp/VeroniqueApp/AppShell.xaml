@@ -1,15 +1,34 @@
-<?xml version="1.0" encoding="UTF-8" ?>
 <Shell
     x:Class="VeroniqueApp.AppShell"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:local="clr-namespace:VeroniqueApp"
-    Shell.FlyoutBehavior="Disabled"
-    Title="VeroniqueApp">
+    xmlns:veroniqueApp="clr-namespace:VeroniqueApp"
+    xmlns:view="clr-namespace:VeroniqueApp.View"
+    Shell.FlyoutBehavior="Disabled">
 
-    <ShellContent
-        Title="Home"
-        ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" />
+    <TabBar>
+        <Tab Title="1">
+            <ShellContent Icon="DashboardTabIcon.png"
+                          ContentTemplate="{DataTemplate view:Page1}"/>
+        </Tab>
+        <Tab Title="2">
+            <ShellContent Icon="SecondTabIcon.png"
+                          ContentTemplate="{DataTemplate view:Page2}"/>
+        </Tab>
+        <Tab Title="3">
+            <ShellContent Icon="SecondTabIcon.png"
+                          ContentTemplate="{DataTemplate view:Page3}"/>
+        </Tab>
+        <Tab Title="4">
+            <ShellContent Icon="SecondTabIcon.png"
+                          ContentTemplate="{DataTemplate view:Page4}"/>
+        </Tab>
+        
+    </TabBar>
+    
+    
+    
 
 </Shell>
+
