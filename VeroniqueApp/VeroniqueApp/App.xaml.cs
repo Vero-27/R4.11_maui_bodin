@@ -8,7 +8,7 @@ namespace VeroniqueApp
         {
             InitializeComponent();
 
-            MainPage = new AppShell();
+            MainPage = new NavigationPage (new AppShell());
         }
     }
 }

@@ -299,3 +299,5 @@ C:\Android\R4.11_maui_bodin\VeroniqueApp\VeroniqueApp\obj\Debug\net8.0-maccataly
 C:\Android\R4.11_maui_bodin\VeroniqueApp\VeroniqueApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\VeroniqueApp.pdb
 C:\Android\R4.11_maui_bodin\VeroniqueApp\VeroniqueApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\VeroniqueApp.genruntimeconfig.cache
 C:\Android\R4.11_maui_bodin\VeroniqueApp\VeroniqueApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ref\VeroniqueApp.dll
+C:\Android\R4.11_maui_bodin\VeroniqueApp\VeroniqueApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\home_page_pic.JPG
+C:\Android\R4.11_maui_bodin\VeroniqueApp\VeroniqueApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\home_page_pic_two.JPG

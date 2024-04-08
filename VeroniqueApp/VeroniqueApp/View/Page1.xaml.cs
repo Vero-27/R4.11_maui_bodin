@@ -1,4 +1,5 @@
-﻿using Microsoft.Maui.Controls;
+﻿using System;
+using Microsoft.Maui.Controls;
 
 namespace VeroniqueApp.View
 {
@@ -7,6 +8,11 @@ namespace VeroniqueApp.View
         public Page1()
         {
             InitializeComponent();
+        }
+
+        async void OnButtonClicked (object sender, EventArgs e)
+        {
+            await Navigation.PushAsync (new PageGif());
         }
     }
 }

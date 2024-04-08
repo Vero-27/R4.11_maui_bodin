@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VeroniqueApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+2355942ef7029d905913e5ea7ac38ef794172641")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+a9b74469766ef78f7c2e16f879ebc6c7cccacc5c")]
 [assembly: System.Reflection.AssemblyProductAttribute("VeroniqueApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VeroniqueApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

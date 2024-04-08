@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="VeroniqueApp.View.PageGif">
+             
+    <ScrollView>
+        <VerticalStackLayout>
+
+            
+            <HorizontalStackLayout
+                Spacing="5"
+                Padding="4">
+                <Image
+                    Source="home_page_pic.JPG"
+                    HeightRequest="185"
+                    WidthRequest="190"
+                    Aspect="AspectFit"
+                    SemanticProperties.Description="cute girls" />
+
+            </HorizontalStackLayout>
+
+
+
+        </VerticalStackLayout>
+        
+    </ScrollView>
+</ContentPage>
