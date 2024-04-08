@@ -178,3 +178,4 @@ C:\Android\R4.11_maui_bodin\VeroniqueApp\VeroniqueApp\obj\Debug\net8.0-windows10
 C:\Android\R4.11_maui_bodin\VeroniqueApp\VeroniqueApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
 C:\Android\R4.11_maui_bodin\VeroniqueApp\VeroniqueApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\home_page_pic.scale-100.JPG
 C:\Android\R4.11_maui_bodin\VeroniqueApp\VeroniqueApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\home_page_pic_two.scale-100.JPG
+C:\Android\R4.11_maui_bodin\VeroniqueApp\VeroniqueApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gif_page_gif.scale-100.gif

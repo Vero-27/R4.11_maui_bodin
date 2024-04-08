@@ -5,22 +5,13 @@
              
     <ScrollView>
         <VerticalStackLayout>
-
             
-            <HorizontalStackLayout
-                Spacing="5"
-                Padding="4">
-                <Image
-                    Source="home_page_pic.JPG"
-                    HeightRequest="185"
-                    WidthRequest="190"
-                    Aspect="AspectFit"
-                    SemanticProperties.Description="cute girls" />
-
-            </HorizontalStackLayout>
-
-
-
+            <Image Source="gif_page_gif.gif"
+                   HeightRequest="600" 
+                   HorizontalOptions="Center"  
+                   Aspect="AspectFit"
+                   IsAnimationPlaying="True"/>
+            
         </VerticalStackLayout>
         
     </ScrollView>

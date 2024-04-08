@@ -214,6 +214,9 @@
     <AppxPackagedFile Include="C:\Android\R4.11_maui_bodin\VeroniqueApp\VeroniqueApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Android\R4.11_maui_bodin\VeroniqueApp\VeroniqueApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gif_page_gif.scale-100.gif">
+      <PackagePath>gif_page_gif.scale-100.gif</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Android\R4.11_maui_bodin\VeroniqueApp\VeroniqueApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\home_page_pic.scale-100.JPG">
       <PackagePath>home_page_pic.scale-100.JPG</PackagePath>
     </AppxPackagedFile>

@@ -1039,3 +1039,4 @@ C:\Android\R4.11_maui_bodin\VeroniqueApp\VeroniqueApp\obj\Debug\net8.0-android\s
 C:\Android\R4.11_maui_bodin\VeroniqueApp\VeroniqueApp\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
 C:\Android\R4.11_maui_bodin\VeroniqueApp\VeroniqueApp\obj\Debug\net8.0-android\resizetizer\r\drawable\home_page_pic_two.JPG
 C:\Android\R4.11_maui_bodin\VeroniqueApp\VeroniqueApp\obj\Debug\net8.0-android\resizetizer\r\drawable\home_page_pic.JPG
+C:\Android\R4.11_maui_bodin\VeroniqueApp\VeroniqueApp\obj\Debug\net8.0-android\resizetizer\r\drawable\gif_page_gif.gif
