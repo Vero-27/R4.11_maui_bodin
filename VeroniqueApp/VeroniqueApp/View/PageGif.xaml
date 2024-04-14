@@ -7,10 +7,11 @@
         <VerticalStackLayout>
             
             <Image Source="gif_page_gif.gif"
+                   x:Name="gif"
                    HeightRequest="600" 
-                   HorizontalOptions="Center"  
+                   HorizontalOptions="Center"   
                    Aspect="AspectFit"
-                   IsAnimationPlaying="True"/>
+                   IsAnimationPlaying="False"/>
             
         </VerticalStackLayout>
         

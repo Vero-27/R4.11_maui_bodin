@@ -9,7 +9,13 @@ namespace VeroniqueApp.View
         {
             InitializeComponent();
         }
- 
+
+        protected override async void OnAppearing ()
+        {
+            base.OnAppearing();
+            await Task.Delay(100);
+            gif.IsAnimationPlaying = true;
+        }
 
     }
 }
