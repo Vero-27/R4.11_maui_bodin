@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "w6F6vPOnTBXqJ6xtmUSzjX6pQ54gQVyN+tgd2qUZ+0Q2wgwMys7Lhlj7/dwHmstSMiO7Fd2l+r9VOI34u6kiFw==",
+  "dgSpecHash": "7u3hI5OaUNNRWNbBwnRYOClJhrzXgKqpwHXS2E5xcCpmzH0AJLTSIxlnFrNGfVwkhaqHls7aszepw2we4z2sJA==",
   "success": true,
   "projectFilePath": "C:\\Android\\R4.11_maui_bodin\\VeroniqueApp\\VeroniqueApp\\VeroniqueApp.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Véro Bodin\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512",
     "C:\\Users\\Véro Bodin\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\Véro Bodin\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\Véro Bodin\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

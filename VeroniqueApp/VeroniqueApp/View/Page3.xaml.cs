@@ -1,46 +1,46 @@
-﻿using System;
-using Microsoft.Maui.ApplicationModel;
-using Microsoft.Maui.Controls;
-using VeroniqueApp.Model;
-using VeroniqueApp.ViewModel;
+﻿using VeroniqueApp.ViewModel;
 
 namespace VeroniqueApp.View
 {
     public partial class Page3
     {
-        private readonly UpcomingLaunchesViewModel _viewModel;
 
         public Page3()
         {
             InitializeComponent();
-
-            _viewModel = new UpcomingLaunchesViewModel();
-            BindingContext = _viewModel;
-
-            _viewModel.PopulateNextLaunchs();
         }
 
-        private async void ListView_ItemTapped(object sender, ItemTappedEventArgs e)
+        private void OnEntryTextChanged1(object sender, TextChangedEventArgs e)
         {
-            if (e.Item is not Root launch || string.IsNullOrEmpty(launch.links.webcast))
+            string oldText = e.OldTextValue;
+            string newText = e.NewTextValue;
+            string myText = entry.Text;
+        }
+
+        private void OnEntryCompleted1(object? sender, EventArgs eventArgs)
+        {
+            string? text = ((Entry)sender!)?.Text;
+        }
+
+
+        async void OnButtonClicked1(object? sender, EventArgs eventArgs)
+        {
+        }
+
+        private async void TakePhoto(object sender, EventArgs e)
+        {
+            FileResult photo = await MediaPicker.Default.PickPhotoAsync(new MediaPickerOptions
             {
-                await DisplayAlert(string.Empty, "This release does not yet have a video.", "Ok");
-                return;
+                Title = "Select your photo"
+            });
+
+            // Here, add the code that is being explained in the next step.
+            if (photo != null)
+            {
+                var stream = await photo.OpenReadAsync();
+                myImage.Source = ImageSource.FromStream(() => stream);
             }
 
-            try
-            {
-                Uri uri = new(launch.links.webcast);
-                await Browser.Default.OpenAsync(uri, BrowserLaunchMode.SystemPreferred);
-            }
-            catch (Exception ex)
-            {
-                Console.Write(ex.Data);
-
-                await DisplayAlert("An unexpected error occured",
-                    "No browser may be installed on the device",
-                    "Ok");
-            }
         }
     }
 }
